@@ -1,0 +1,13 @@
+# SaulGoodBot — dépendances (Python 3.10 à 3.12 recommandé)
+
+langchain-core>=0.3.30
+langchain-community>=0.3.15     
+langchain-text-splitters>=0.3.5
+langchain-chroma>=0.2.2
+langchain-huggingface>=0.1.2
+langchain-groq>=0.2.4
+chromadb>=0.6.3
+sentence-transformers>=3.3
+pypdf>=5.1
+ddgs>=9.0                       
+python-dotenv>=1.0
